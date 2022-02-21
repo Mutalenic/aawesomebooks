@@ -14,7 +14,7 @@ export default class Book {
     const removeBookID = parseInt(this.id, 10);
     let listSection = Book.books;
     listSection = listSection.filter(
-      (element, index) => index !== removeBookID
+      (element, index) => index !== removeBookID,
     );
     Book.books = listSection;
     localStorage.setItem('bookInfo', JSON.stringify(listSection));
