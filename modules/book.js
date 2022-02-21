@@ -34,15 +34,20 @@ export default class Book {
       <button type="button" class="remove-btn" id="${index}">Remove</button>
       </div>`;
     });
+    bookList.innerHTML = '';
     bookList.innerHTML = bookDIV;
   }
 }
 
 Book.displayUI();
+
 const bookTitle = document.querySelector('#title');
 const bookAuthor = document.querySelector('#author');
 const removeButton = document.querySelectorAll('.remove-btn');
-removeButton.forEach((item) => item.addEventListener('click', () => {
-  const deleteBook = new Book(bookTitle.value, bookAuthor.value, this.id);
-  deleteBook.removeBook();
-}));
+
+removeButton.forEach((item) => {
+  item.addEventListener('click', () => {
+    const deleteBook = new Book(bookTitle.value, bookAuthor.value, item.id);
+    deleteBook.removeBook();
+  });
+});
