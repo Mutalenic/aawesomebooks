@@ -4,6 +4,8 @@
 
 In this project, I built a basic website that allows users to add/remove books from a list. I achieved that by using JavaScript objects and arrays, I also dynamically modified the DOM and added basic events.
 
+![awesomebooks](https://user-images.githubusercontent.com/19844175/155072342-6a8f649a-62aa-41f3-92dd-bb4b2c44f5a8.png)
+
 ## Built With
 
 - HTML
