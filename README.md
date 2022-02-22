@@ -17,9 +17,19 @@ In this project, I built a basic website that allows users to add/remove books f
 
 ## Authors
 
-- GitHub: [@Mutalenic](https://github.com/Mutalenic)
-- Twitter: [@nicomutale](https://twitter.com/nicomutale)
-- LinkedIn: [LinkedIn: nicholasmutale](https://www.linkedin.com/in/nicholas-mutale-715714124/)
+👤 **Said Rasinlic**
+
+- GitHub: [@GitHub/SaidRasinlic](https://github.com/SaidRasinlic)
+- Twitter: [@Twitter/SaidRasinlic](https://twitter.com/SaidRasinlic)
+- LinkedIn: [LinkedIn/SaidRasinlic](https://www.linkedin.com/in/saidrasinlic)
+
+👤 **Mehdi Rahal**
+
+ - GitHub: [@GitHub/Mehdi-Rh](https://github.com/Mehdi-Rh)
+ 
+ 👤 **Nicholas Mutale** https://github.com/Mutalenic
+ 
+ - GitHub: [@GitHub/Mutalenic](https://github.com/Mutalenic)
 
 ## Contributions, issues, and feature requests are welcome!
 
